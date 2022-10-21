@@ -1,0 +1,44 @@
+Stack Elements
+
+<"hi my name is bib">
+<20>
+<30>
+<10>
+<1>
+<1>
+
+Stack
+
+himynameisbib
+himynameisbib 20
+himynameisbib 20 30
+himynameisbib 20 30 10
+himynameisbib 20 30 10 1
+himynameisbib 20 30 10 1 1
+
+Witness Script
+
+OP_AND
+OP_ADD
+OP_SUB
+OP_SUB
+OP_NOT
+<0>
+OP_EQUAL
+OP_IF 
+<"hi my name is bib"> 
+OP_ENDIF
+OP_EQUAL
+
+Output
+himynameisbib 20 30 10 1
+himynameisbib 20 30 11
+himynameisbib 20 19
+himynameisbib 1
+himynameisbib 0
+himynameisbib 0 0
+himynameisbib 1
+himynameisbib
+himynameisbib himynameisbib
+himynameisbib himynameisbib
+1
