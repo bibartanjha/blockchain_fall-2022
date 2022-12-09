@@ -3,7 +3,7 @@ Email: jha.b1bartan@utexas.edu
 Discord: bibberoni
 
 
-Stack Elements
+Program Inputs
 <"hi my name is bib">
 <20>
 <30>
@@ -11,15 +11,7 @@ Stack Elements
 <1>
 <1>
 
-Stack
-himynameisbib
-himynameisbib 20
-himynameisbib 20 30
-himynameisbib 20 30 10
-himynameisbib 20 30 10 1
-himynameisbib 20 30 10 1 1
-
-Witness Script
+Script
 OP_AND
 OP_ADD
 OP_SUB
@@ -31,6 +23,14 @@ OP_IF
 <"hi my name is bib"> 
 OP_ENDIF
 OP_EQUAL
+
+Stack
+himynameisbib
+himynameisbib 20
+himynameisbib 20 30
+himynameisbib 20 30 10
+himynameisbib 20 30 10 1
+himynameisbib 20 30 10 1 1
 
 Output
 himynameisbib 20 30 10 1
