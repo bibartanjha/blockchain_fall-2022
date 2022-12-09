@@ -32,6 +32,16 @@ OP_ENDIF
 OP_EQUAL
 ```
 
+## Stack
+```python
+himynameisbib
+himynameisbib 20
+himynameisbib 20 30
+himynameisbib 20 30 10
+himynameisbib 20 30 10 1
+himynameisbib 20 30 10 1 1
+```
+
 ## Result
 
 The `OP_EQUAL` result should evaluate to true.
