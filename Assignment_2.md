@@ -5,12 +5,14 @@ Email   : jha.b1bartan@utexas.edu
 Discord : bibberoni
 
 ## Program Inputs
+```python
 <"hi my name is bib">
 <20>
 <30>
 <10>
 <1>
 <1>
+```
 
 ## Program Script
 
