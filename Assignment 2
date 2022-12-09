@@ -1,5 +1,9 @@
-Stack Elements
+Name: Bibartan Jha
+Email: jha.b1bartan@utexas.edu
+Discord: bibberoni
 
+
+Stack Elements
 <"hi my name is bib">
 <20>
 <30>
@@ -8,7 +12,6 @@ Stack Elements
 <1>
 
 Stack
-
 himynameisbib
 himynameisbib 20
 himynameisbib 20 30
@@ -17,7 +20,6 @@ himynameisbib 20 30 10 1
 himynameisbib 20 30 10 1 1
 
 Witness Script
-
 OP_AND
 OP_ADD
 OP_SUB
@@ -42,3 +44,6 @@ himynameisbib
 himynameisbib himynameisbib
 himynameisbib himynameisbib
 1
+
+Resources:
+https://ide.scriptwiz.app/ 
