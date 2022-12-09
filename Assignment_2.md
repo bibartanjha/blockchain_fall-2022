@@ -32,14 +32,19 @@ OP_ENDIF
 OP_EQUAL
 ```
 
-## Stack
+## Output
 ```python
-himynameisbib
-himynameisbib 20
-himynameisbib 20 30
-himynameisbib 20 30 10
 himynameisbib 20 30 10 1
-himynameisbib 20 30 10 1 1
+himynameisbib 20 30 11
+himynameisbib 20 19
+himynameisbib 1
+himynameisbib 0
+himynameisbib 0 0
+himynameisbib 1
+himynameisbib
+himynameisbib himynameisbib
+himynameisbib himynameisbib
+1
 ```
 
 ## Result
