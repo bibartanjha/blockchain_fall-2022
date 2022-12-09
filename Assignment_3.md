@@ -2,10 +2,10 @@
 # Assignment 03 - Lightning Payment
 
 Name    : Bibartan Jha 
-Email   : jha.b1bartan@utexas.edu  
-Discord : bibberoni  
 
-Close txid: 67088d2a56e575e4ed335500b5dd252987c25c9441e8b8a4463f21277666cbfe
+Email   : jha.b1bartan@utexas.edu  
+
+Discord : bibberoni  
 
 ## Transaction Sumamry
 
