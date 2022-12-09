@@ -1,7 +1,9 @@
 # Assignment 01 - Bitcoin Transaction
 
 Name    : Bibartan Jha
+
 Email   : jha.b1bartan@utexas.edu
+
 Discord : bibberoni  
 
 ## Transaction Sumamry
